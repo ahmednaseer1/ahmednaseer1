@@ -1,5 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/ahmednaseer1?lable=Followers&style=social)](https://github.com/ahmednaseer1)
-
 # Hi there, I'm Ahmed Naseeruddin Saberi 👋
 
 Welcome to my GitHub profile! I'm an aspiring software developer and technology enthusiast with a passion for web development, machine learning, and graphic design. I enjoy building innovative projects that solve real-world problems and continuously expanding my skills.
