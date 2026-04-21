@@ -84,13 +84,13 @@ From AI-powered tools to scalable data pipelines, I focus on solving *real-world
 
 ## 🌐 Portfolio
 
-🔗 https://www.ahmednaseeruddin.000.pe
+🔗 https://ahmed.rivitechnologies.co.in/
 
 ---
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ahmed-naseeruddin-1bb785309
+* 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-naseeruddin-1bb785309](https://www.linkedin.com/in/ahmed-naseeruddin-919b37404)
 * 📧 Email: [ahmednaseeruddin16@gmail.com](mailto:ahmednaseeruddin16@gmail.com)
 
 ---
